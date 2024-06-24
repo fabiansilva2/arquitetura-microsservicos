@@ -1,4 +1,4 @@
-# Projeto: Arquitetura de Microsserviços: Padrão Saga Orquestrado
+# Projeto: Arquitetura de Microsserviços Padrão
 
 # Tecnologias
 
